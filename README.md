@@ -1,4 +1,4 @@
-# 스프링 부트 크롤링 연습
+# 스프링 부트 크롤링 연습 -> 알라딘 카테고리..!
     참고 : 
         https://jsoup.org/
         https://vmpo.tistory.com/113
@@ -11,4 +11,5 @@
         Jsoup : 1.14.2
 
     내용 :
-        blog 참고하여 Crawling 따라해보기 -> 네이버 주식 사이트!!
+        blog 참고하여 Crawling 따라해보기
+        aladin category crawling -> "categoryTitle / categoryId"
